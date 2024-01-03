@@ -1,0 +1,15 @@
+﻿  OpenGLMeshLoader.cpp
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(351,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(351,43): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(366,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(366,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(366,57): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(721,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(743,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(753,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(764,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\OpenGLMeshLoader.cpp(776,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\Lujina Amer\Documents\Guc\Sem 7\Graphics\Lab\Lab 7\Debug\OpenGLMeshLoader19.exe
